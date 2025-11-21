@@ -1,0 +1,5 @@
+{
+  "name": "Live2D AI Studio",
+  "description": "AIツールを使用してアニメアバターを生成し、Veoを使って動画ループを作成し、Live2D制作のためのリギング要件を分析します。",
+  "requestFramePermissions": []
+}
